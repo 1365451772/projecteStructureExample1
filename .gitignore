@@ -23,7 +23,7 @@ mvnw
 *.cmd
 /.idea/
 /.project
-/publish/
+
 
 # Compiled class file
 *.class
